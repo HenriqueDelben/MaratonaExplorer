@@ -86,3 +86,90 @@ Este repositório representa meu primeiro contato com HTML e CSS
             É uma base de dados estruturada em formato de tabela com linhas e colunas
   </p>
 </details>
+
+<details> <summary>### Aula 2 - Descomplicando código: CSS </summary>
+    <p>
+        ### 
+
+- Pra que serve o CSS?
+    
+    Ele serve para adicionar personalização ao HTML, uma apresentação visual melhor
+    
+- Como adiciona o CSS no HTML?
+    
+    ```css
+    <head>
+    	<link rel="stylesheet" href="exemplo.css"
+    </head>
+    ```
+    
+- Quais são os princípios do CSS?
+    - **Cascading/cascata:** ordem de prioridade de baixo para cima, mais importante para menos importante, com a última sendo a mais importante
+    - **Especificidade:** o nível de especificidade do seletor dita também a prevalência entre personalização de um seletor e outro
+    - **Box Model:** todo elemento HTML é como se fosse uma caixa, com propriedades de altura, espaçamento interno e externo, etc
+        
+        ![https://upload.wikimedia.org/wikipedia/commons/7/7a/Boxmodell-detail.png](https://upload.wikimedia.org/wikipedia/commons/7/7a/Boxmodell-detail.png)
+        
+- O que é uma declaração?
+    
+    É um pedaço de código que serve para especificar o elemento HTML que terá uma personalização
+    
+- Sintaxe
+    - Qual a sintaxe de uma declaração?
+        
+        Seletor, abre chaves, propriedade, valor, fecha chaves
+        
+        ```css
+        seletor {
+        propriedade: valor;
+        }
+        ```
+        
+    - Como é um comentário?
+        
+        ```css
+        /*  COMENTÁRIO */
+        ```
+        
+    - Como é estruturado o CSS?
+        
+        É organizado em **cascatas:** isto é. as declarações são classificadas em ordem de prioridade de menos à a maior relevância, de cima para baixo, seja entre as declarações ou as propriedades e **prioridades:** especificidade do seletetor
+        
+    - Quais são os seletores no CSS?
+        - Elemento
+        - Classe
+        - ID
+            
+            ```css
+            elemento {
+            /* peso 10*/
+            }
+            
+            .class {
+            /* peso 10*/
+            }
+            #id {
+            /* peso 100 */
+            }
+            ```
+            
+    - Nomenclatura de seletores
+    </p>
+</details>
+
+<details> 
+    <p>
+        - [x]  Como instalar o VS Code
+        - [x]  Funcionamento básico do GIT
+        - [x]  Deploy no Netlify
+    </p>
+</details>
+
+<details> <summary> ### Material Complementar</summary>
+<p>
+    - Link do projeto: [https://www.figma.com/community/file/1138209866997102496](https://www.figma.com/community/file/1138209866997102496)
+    - Aula 1: [Aula 01 (notion.site)](https://www.notion.so/4e59506b90d74964bd5c5d4840e99b25)
+    - Aula 2: [Aula 02](https://www.notion.so/491d96a951394926906bd736deaf830b)
+    - Aula 3: [Aula 03](https://www.notion.so/33dd21cd310b4a86b9f278e4021b4bf8)
+</p>
+</details>
