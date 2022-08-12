@@ -166,8 +166,8 @@ Este repositório representa meu primeiro contato com HTML e CSS
 <details> <summary> Material Complementar</summary>
 <p>
     - Link do projeto: [figma](https://www.figma.com/community/file/1138209866997102496)
-    - [Aula 01](https://www.notion.so/4e59506b90d74964bd5c5d4840e99b25)
-    - [Aula 02](https://www.notion.so/491d96a951394926906bd736deaf830b)
-    - [Aula 03](https://www.notion.so/33dd21cd310b4a86b9f278e4021b4bf8)
+    - ![Aula 01](https://www.notion.so/4e59506b90d74964bd5c5d4840e99b25)
+    - ![Aula 02](https://www.notion.so/491d96a951394926906bd736deaf830b)
+    - ![Aula 03](https://www.notion.so/33dd21cd310b4a86b9f278e4021b4bf8)
 </p>
 </details>
