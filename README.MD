@@ -9,7 +9,6 @@ Este repositório representa meu primeiro contato com HTML e CSS
 <details>
 <summary> Aula 1 - O início da Jornada: fundamentos HTML e conceitos básicos de programação </summary>
   <p>
-    ### 
 
 - O que é front-end?
     
@@ -87,9 +86,8 @@ Este repositório representa meu primeiro contato com HTML e CSS
   </p>
 </details>
 
-<details> <summary>### Aula 2 - Descomplicando código: CSS </summary>
+<details> <summary>Aula 2 - Descomplicando código: CSS </summary>
     <p>
-        ### 
 
 - Pra que serve o CSS?
     
