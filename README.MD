@@ -1,5 +1,7 @@
 # Maratona Explorer
+
 <img src="/project.PNG" alt="Project Preview" style="display: block; margin-left: auto; margin-right: auto;"/>
+
 ## Sobre
 Conjunto de 3 aulas providas pela plataforma da rocketseat que irá tratar de tecnologias básicos do desenvolvimento WEB: HTML e CSS. Com um projeto final de um site catálogo de pratos de um restaurante com a criação de um QR Code
 
